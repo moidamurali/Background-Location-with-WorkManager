@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">Location Track</string>
+	<string name="action_settings">Settings</string>
+	<string name="btn_text_stop">Stop</string>
+	<string name="message_worker_running">Location Track is on...</string>
+	<string name="message_worker_stopped">Location Track is stopped</string>
+	<string name="log_for_running">updated location will be notify on every 10 minutes as status notification.</string>
+	<string name="log_for_stopped">Start to get location on every  10 minutes</string>
+	<string name="btn_text_start">Start</string>
+</resources>
